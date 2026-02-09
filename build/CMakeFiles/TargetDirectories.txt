@@ -1,0 +1,3 @@
+C:/Users/waldi/Desktop/grafica/semana02/build/CMakeFiles/entorno_test.dir
+C:/Users/waldi/Desktop/grafica/semana02/build/CMakeFiles/edit_cache.dir
+C:/Users/waldi/Desktop/grafica/semana02/build/CMakeFiles/rebuild_cache.dir
